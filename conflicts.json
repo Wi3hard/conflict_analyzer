@@ -1,0 +1,16 @@
+{
+  "Boko Haram Insurgency": {
+    "type": "Intrastate Conflict",
+    "actors": ["Boko Haram", "Nigerian Government", "Civilians"],
+    "causes": ["Religious extremism", "Underdevelopment", "Corruption"],
+    "solutions": ["Military intervention", "Deradicalization programs", "Dialogue"],
+    "theory": "Human Needs Theory"
+  },
+  "Niger Delta Crisis": {
+    "type": "Resource-Based Conflict",
+    "actors": ["Militants", "Oil Companies", "Federal Government"],
+    "causes": ["Oil exploitation", "Environmental degradation", "Marginalization"],
+    "solutions": ["Amnesty", "Resource control", "Development programs"],
+    "theory": "Structural Violence Theory"
+  }
+}
